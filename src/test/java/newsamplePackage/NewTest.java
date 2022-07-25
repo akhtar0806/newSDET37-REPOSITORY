@@ -8,6 +8,7 @@ public class NewTest {
 		//ptint second time
 		System.out.println("news gitbash");	
 		System.out.println("bye..");
+		System.out.println("tysse");
 	}
 
 }
